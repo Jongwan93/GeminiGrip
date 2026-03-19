@@ -10,6 +10,9 @@ env/
 # Browser profile (local state)
 .gemini_grip_profile/
 
+# OpenClaw snapshot output
+SnapShotResult.txt
+
 # Python
 __pycache__/
 *.py[cod]

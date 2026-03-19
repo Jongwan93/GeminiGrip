@@ -1,1 +1,0 @@
-# GeminiGrip scripts package
